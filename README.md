@@ -1,5 +1,5 @@
 # Tugas3
-Tema project ini adalah marketplace dengan nama KIZARU_WORLD STORE yang menjual pakaian dari baju, outwear, hingga celana dengan kualitas yang kain yang berkualitas dan nyaman di pakai!
+Tema project ini adalah marketplace dengan nama KIZARU_WORLD STORE yang menjual pakaian dari baju, outwear, hingga celana dengan kain yang berkualitas dan nyaman di pakai!
 
 Component Bootstrap yang digunakan dalam project ini adalah:
 
